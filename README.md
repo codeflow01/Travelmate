@@ -4,7 +4,7 @@
 
 This app is built using the Expo CLI toolchain, styled with Tailwind CSS, and incorporates multiple libraries designed to facilitate mobile development practices, including consuming REST APIs. It utilises the iOS Simulator from Xcode for testing purposes. The scenario for this app is to connect users with popular places of interest and restaurants around the world. Through this application, users can search for any location they're interested in and find restaurants and sightseeing opportunities.
 
-![enter image description here](http://)
+![enter image description here](https://github.com/codeflow01/Travelmate/blob/main/demo.png)
 
 <br>
 
