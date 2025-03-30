@@ -201,7 +201,6 @@ export  default  function App() {
 -   **_Difference in Styling_**: React uses traditional CSS files, inline styles, or CSS modules for styling, utilising classic CSS properties and selectors to style components. React Native leverages a JavaScript object to style components, employing a syntax that closely resembles CSS but is not identical. However, in this demo, Tailwind CSS is integrated to streamline the styling process across React and React Native.
 
 <br>
-<br>
 
 ## Reference
 
