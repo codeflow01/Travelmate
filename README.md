@@ -202,7 +202,7 @@ export  default  function App() {
 
 <br>
 
-## Reference
+## References
 
 [1]: Expo documentation: https://docs.expo.dev/get-started/installation/<br>
 [2]: More about Watchman: https://facebook.github.io/watchman/<br>
